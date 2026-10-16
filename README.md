@@ -19,8 +19,6 @@ Tenho interesse na aplicação de métodos matemáticos, computacionais e estat�
 - **Estatística e Análise de Dados:** *All of Statistics*, de Larry Wasserman, e *Statistical Data Analysis*, de Glen Cowan.
 - **Matemática:** Álgebra de Lie e estruturas matemáticas aplicadas à Física.
 
-Atualmente, participo de uma iniciação científica júnior em introdução matemática à Mecânica Quântica, sob orientação da Profa. Bárbara Amaral, da USP.
-
 ## Ferramentas e métodos
 
 - **Linguagem:** Python.
